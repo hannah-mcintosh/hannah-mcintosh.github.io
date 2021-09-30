@@ -1,1 +1,5 @@
-theme: jekyll-theme-architect
+theme: minima
+title: Example Site using Github
+header_pages:
+  - about.md
+  - me.md
